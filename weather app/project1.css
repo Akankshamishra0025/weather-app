@@ -1,0 +1,42 @@
+body {
+    font-family: Arial,sans-serif;
+    background-image:url("https://www.rd.com/wp-content/uploads/2019/11/15.-111_180628-0762.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+    
+    .container{
+        max-width: 400px;
+        margin: 0 auto;
+        text-align: center;
+        padding: 20px;
+        background-image:url("https://tse1.mm.bing.net/th?id=OIP.QXYu8JqMdwfnNnAlDTuoGQHaFN&pid=Api&P=0&h=180");
+        background-size: cover;
+       border-radius: 10px;
+        box-shadow: 0 0 10px rgba(50, 167, 120, 0.3);
+        margin-top: 105px;
+    }
+    h1{
+        font-size: 24px;
+    }
+    input[type="text"]{
+        width: 100px;
+        padding: 10px;
+        margin: 10px 0;
+        border: dotteds #b048a1;
+        border-radius: 5px;
+    }
+    
+    button{
+        background-color: #953b4e;
+        color: #fff;
+        border: dotted;
+        padding: 10px 20px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    
+    .weather-info{ 
+        margin-top:20px;
+    
+     }
